@@ -1,6 +1,4 @@
 # text-to-morse-code-using-buzzer-
-You got it. Here is a README file for your GitHub project that describes everything but keeps the code in the separate files.
-
 ESP32 Text-to-Morse Code Buzzer 🔊
 A simple and fun project that converts text from your computer into audible Morse code using an ESP32 and an active buzzer.
 
